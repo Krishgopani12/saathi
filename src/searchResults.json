@@ -1,0 +1,102 @@
+[
+  {
+    "title": "HTML Tutorial for Beginners | Complete HTML with Notes & Code",
+    "channel": "Apna College",
+    "views": 10039160,
+    "duration": "2:06:00",
+    "videoUrl": "https://www.youtube.com/watch?v=HcOc7P5BMi4",
+    "thumbnail": "https://i.ytimg.com/vi_webp/HcOc7P5BMi4/maxresdefault.webp",
+    "chapters": []
+  },
+  {
+    "title": "HTML Tutorial for Beginners: HTML Crash Course",
+    "channel": "Programming with Mosh",
+    "views": 7633960,
+    "duration": "1:09:33",
+    "videoUrl": "https://www.youtube.com/watch?v=qz0aGYrrlhU",
+    "thumbnail": "https://i.ytimg.com/vi/qz0aGYrrlhU/maxresdefault.jpg",
+    "chapters": [
+      "1. Introduction",
+      "2. What You Need",
+      "3. Languages and Tools of Web Development",
+      "4. How the Web Works",
+      "5. Inspecting HTTP Requests and Responses",
+      "6. HTML Basics",
+      "7. CSS Basics",
+      "8. Formatting Code",
+      "9. Inspecting Pages Using DevTools",
+      "10. Validating Web Pages",
+      "11. The Head Section",
+      "12. Text",
+      "13. Entities",
+      "14. Hyperlinks",
+      "15. Images"
+    ]
+  },
+  {
+    "title": "HTML & CSS Full Course - Beginner to Pro",
+    "channel": "SuperSimpleDev",
+    "views": 7662372,
+    "duration": "6:31:24",
+    "videoUrl": "https://www.youtube.com/watch?v=G3e-cpL7ofc",
+    "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/maxresdefault.jpg",
+    "chapters": [
+      "1. Intro",
+      "2. 1. HTML Basics",
+      "3. 2. CSS Basics",
+      "4. 3. Hovers, Transitions, Shadows",
+      "5. 4. Chrome DevTools & CSS Box Model",
+      "6. 5. Text Styles",
+      "7. 6. The HTML Structure",
+      "8. 7. Images and Text Boxes",
+      "9. 8. CSS Display Property",
+      "10. 9. The div Element",
+      "11. 10. Nested Layouts Technique",
+      "12. 11. CSS Grid",
+      "13. 12. Flexbox",
+      "14. 13. Nested Flexbox",
+      "15. 14. CSS Position",
+      "16. 15. Position Absolute and Relative",
+      "17. 16. Finish the Project",
+      "18. 17. More CSS Features",
+      "19. Outro"
+    ]
+  },
+  {
+    "title": "HTML Tutorial For Beginners In Hindi (With Notes) 🔥",
+    "channel": "CodeWithHarry",
+    "views": 11006071,
+    "duration": "3:11:12",
+    "videoUrl": "https://www.youtube.com/watch?v=BsDoLVMnmZs",
+    "thumbnail": "https://i.ytimg.com/vi_webp/BsDoLVMnmZs/maxresdefault.webp",
+    "chapters": [
+      "1. Intro",
+      "2. Chapter 0",
+      "3. Chapter 1",
+      "4. Chapter 2",
+      "5. Chapter 3",
+      "6. Chapter 4",
+      "7. Chapter 5"
+    ]
+  },
+  {
+    "title": "Complete HTML Tutorial in 1 Video || in HINDI (2023)",
+    "channel": "CodeHelp - by Babbar",
+    "views": 481397,
+    "duration": "5:48:03",
+    "videoUrl": "https://www.youtube.com/watch?v=k7ELO356Npo",
+    "thumbnail": "https://i.ytimg.com/vi_webp/k7ELO356Npo/maxresdefault.webp",
+    "chapters": [
+      "1. Introduction",
+      "2. Code your First Html Program",
+      "3. Mastering HTML Tags for Web Development",
+      "4. Efficient Coding Technique with MERN STACK",
+      "5. HTML Tables",
+      "6. Forms in HTML",
+      "7. HTML Forms continued",
+      "8. HTML Resume Project",
+      "9. HTML Media Project",
+      "10. Media, SEO && HEAD tag in HTML"
+    ]
+  }
+]
